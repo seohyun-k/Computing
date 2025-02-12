@@ -1,4 +1,4 @@
-# MiniGrid 예제 (과제 제출용)
+# MiniGrid 
 https://minigrid.farama.org/environments/minigrid/EmptyEnv/
 
 

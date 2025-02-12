@@ -1,4 +1,5 @@
-# MiniGrid 
+# MiniGrid 활용
+## Q-learing, SARSA
 https://minigrid.farama.org/environments/minigrid/EmptyEnv/
 
 
